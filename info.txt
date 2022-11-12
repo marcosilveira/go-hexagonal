@@ -1,0 +1,5 @@
+go test ./...
+go mod tidy
+go run main.go
+go get github.com/xxx
+cobra-cli
